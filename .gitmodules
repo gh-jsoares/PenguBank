@@ -1,0 +1,9 @@
+[submodule "PenguBank-Server"]
+	path = PenguBank-Server
+	url = git@github.com:Penguin-Dream-Team/PenguBank-Server.git
+[submodule "PenguBank-Mobile"]
+	path = PenguBank-Mobile
+	url = git@github.com:Penguin-Dream-Team/PenguBank-Mobile.git
+[submodule "PenguBank-Desktop"]
+	path = PenguBank-Desktop
+	url = git@github.com:Penguin-Dream-Team/PenguBank-Desktop.git
